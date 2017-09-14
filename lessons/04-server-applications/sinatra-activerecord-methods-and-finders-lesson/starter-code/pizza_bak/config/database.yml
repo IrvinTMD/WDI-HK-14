@@ -1,0 +1,5 @@
+development:
+  adapter: mysql2
+  username: root
+  password: mOrgan01
+  database: pizza_shop_development

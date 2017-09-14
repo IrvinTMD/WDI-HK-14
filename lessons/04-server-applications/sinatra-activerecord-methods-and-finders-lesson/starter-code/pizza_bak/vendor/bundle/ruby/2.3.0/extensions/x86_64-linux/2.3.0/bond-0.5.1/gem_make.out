@@ -1,0 +1,16 @@
+current directory: /home/pc/data/sites/teaching/GA/WDI/wdi_hk_14/resources/lessons/04-server-applications/sinatra-activerecord-methods-and-finders-lesson/starter-code/pizza_bak/vendor/bundle/ruby/2.3.0/gems/bond-0.5.1/ext/readline_line_buffer
+/usr/bin/ruby2.3 -r ./siteconf20170912-2283-16ick1c.rb extconf.rb
+
+current directory: /home/pc/data/sites/teaching/GA/WDI/wdi_hk_14/resources/lessons/04-server-applications/sinatra-activerecord-methods-and-finders-lesson/starter-code/pizza_bak/vendor/bundle/ruby/2.3.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR=" clean
+make: *** No rule to make target 'clean'.  Stop.
+
+current directory: /home/pc/data/sites/teaching/GA/WDI/wdi_hk_14/resources/lessons/04-server-applications/sinatra-activerecord-methods-and-finders-lesson/starter-code/pizza_bak/vendor/bundle/ruby/2.3.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR="
+echo "This is a dummy extension"
+This is a dummy extension
+
+current directory: /home/pc/data/sites/teaching/GA/WDI/wdi_hk_14/resources/lessons/04-server-applications/sinatra-activerecord-methods-and-finders-lesson/starter-code/pizza_bak/vendor/bundle/ruby/2.3.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR=" install
+echo "This is a dummy extension"
+This is a dummy extension

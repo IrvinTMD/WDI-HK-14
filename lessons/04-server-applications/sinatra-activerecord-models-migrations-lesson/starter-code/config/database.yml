@@ -1,0 +1,5 @@
+development:
+  adapter: mysql2
+  database: tunr_development
+  username: root
+  password: mOrgan01

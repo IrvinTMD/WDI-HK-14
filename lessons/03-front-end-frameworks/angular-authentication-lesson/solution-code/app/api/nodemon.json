@@ -1,0 +1,6 @@
+{
+  "events": {
+    "start": "node config/seeds.js"
+  }
+}
+

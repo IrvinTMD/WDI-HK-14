@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Grunt Lesson</title>
+
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+  <!-- Angular -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.4/angular.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.15/angular-ui-router.min.js"></script>
+
+  <!-- js files -->
+  <script src="/app.js"></script>
+  <script src="/components/home/home-controller.js"></script>
+</head>
+<body ng-app="gruntApp">
+  <div ng-controller="homeController" class="text-center">
+    <h1>Grunt is a {{grunt.description}} that is awesome for {{grunt.purpose}}</h1>
+  </div>
+</body>
+</html>
